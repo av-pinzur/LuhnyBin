@@ -5,6 +5,6 @@ Taking up the (admittedly aging) challenge from Square (see http://corner.square
 
 To execute on Windows, I'm using win-bash.
 * Download from here: http://win-bash.sourceforge.net/
-* Unzip to, e.g., c:\win-bash
-* Add to path, e.g., set path=%path%;c:\win-bash
-* Run (from repo root) - sh run.sh
+* Unzip to, e.g., `c:\win-bash`
+* Add to path, e.g., `set path=%path%;c:\win-bash`
+* Run (from repo root) - `sh run.sh`
